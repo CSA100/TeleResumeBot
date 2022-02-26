@@ -1,4 +1,3 @@
-
 # handlers
 def start(update, context):
     context.bot.send_message(
